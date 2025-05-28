@@ -1,2 +1,8 @@
+<<<<<<< Updated upstream
 Amazon Elastic Compute Cloud (EC2) is a web service that provides resizable compute capacity (virtual servers) in the AWS cloud Thulasi.
 2 lines added here UI
+=======
+Amazon Elastic Compute Cloud (EC3) is a web service that provides resizable compute capacity (virtual servers) in the AWS cloud Thulasi 
+added_line1
+added_line2
+>>>>>>> Stashed changes
